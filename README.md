@@ -4,5 +4,5 @@
 Basically talks about Quantum Computing.
 
 ## Abstract
-Quantum Computing. Quantum Networking. Old Computers. Old Books. Shogi. Kendo.
+Quantum Computing. Quantum Networking. Old Computers. Old Books. Shogi. Kendo.  
 Science isn't about WHY. It's about WHY NOT.
