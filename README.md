@@ -1,4 +1,4 @@
-# Hello, Everything. 🛰
+# Next stop, everywhere. 🛰
   
 ## [My Medium Blog](http://visbyrain.medium.com/)
 Basically talks about Quantum Computing.
